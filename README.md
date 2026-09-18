@@ -2,7 +2,7 @@
 
 **By Yanfei Li, PhD**
 
-A hands on guide with Python.
+A Hands-on Guide with Python.
 
 <img src="cover-front.jpg" alt="Book cover" width="350">
 
