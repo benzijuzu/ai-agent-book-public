@@ -1,8 +1,7 @@
 # Building AI Agents from Scratch
 
-**By Yanfei Li, PhD**
+## A Hands-On Guide with Python.
 
-A Hands-on Guide with Python.
 
 <img src="cover-front.jpg" alt="Book cover" width="350">
 
