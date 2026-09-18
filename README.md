@@ -2,11 +2,8 @@
 
 **By Yanfei Li, PhD**
 
-A practical guide to building AI agents through everyday examples.
+A hands on guide with Python.
 
-## About This Repository
+<img src="cover-front.jpg" alt="Book cover" width="350">
 
-This repository provides example code for three selected chapters
-of the book.
-
-Book previews and source code will be added soon.
+📖 [Read a Sample Chapter](sample-chapter-01.pdf)
